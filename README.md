@@ -9,5 +9,5 @@ Aşağıdaki Python kütüphanelerinin sisteminizde yüklü olması gerekir:
 ```bash
 pip install pandas openpyxl selenium twocaptcha tkinter webdriver-manager
 
-# ⚙️ Kurulum ve Kullanım
+### ⚙️ Kurulum ve Kullanım
 1. Projeyi İndirin veya Klonlayın
