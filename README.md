@@ -69,6 +69,8 @@ Excel dosyası şu şekilde olmalıdır:
 
  * Bu proje yalnızca eğitim ve otomasyon denemeleri içindir. Ticari amaçla kullanmayınız.
 
+## Uygulama
+![IMEI Sorgulama Demo](https://github.com/mehmetesenn/EDevletTopluIMEISorgulama/raw/main/imeiSorgu.gif)
 
 
 
